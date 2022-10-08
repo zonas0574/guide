@@ -1,0 +1,77 @@
+[
+  {
+    "title": "资讯",
+    "list": [
+      { "name": "V2EX", "url": "https://v2ex.com" },
+      { "name": "掘金酱", "url": "https://e.juejin.cn" },
+      { "name": "Readhub", "url": "https://readhub.cn/" },
+      { "name": "摸鱼", "url": "https://momoyu.cc" }
+    ]
+  },
+  {
+    "title": "Move",
+    "list": [
+      { "name": "音范丝", "url": "https://www.yinfans.me" },
+      { "name": "磁力熊", "url": "https://www.cilixiong.com" },
+      { "name": "高清电影天堂", "url": "https://www.gaoqing888.com" },
+      { "name": "12bt", "url": "https://www.12bt.cc" }
+    ]
+  },
+  {
+    "title": "字幕",
+    "list": [
+      { "name": "射手网", "url": "http://assrt.net" },
+      { "name": "字幕库", "url": "https://zmk.pw" },
+      { "name": "SubHD", "url": "https://subhd.tv" }
+    ]
+  },
+  {
+    "title": "音乐&图书",
+    "list": [
+      { "name": "万籁", "url": "http://www.onelai.cn" },
+      { "name": "爱歌词库", "url": "https://www.igeciku.com" },
+      { "name": "音乐解锁", "url": "https://demo.unlock-music.dev" },
+      { "name": "Z-Library", "url": "https://zh.b-ok.cc/" }
+    ]
+  },
+  {
+    "title": "聚合搜索",
+    "list": [
+      { "name": "图片搜索", "url": "https://tineye.com" },
+      { "name": "海盗船", "url": "https://thepiratebay.org/index.html" }
+    ]
+  },
+  {
+    "title": "Windows",
+    "list": [
+      { "name": "itellyou", "url": "https://next.itellyou.cn/Original/Index" },
+      { "name": "HelloWindows", "url": "https://hellowindows.cn" }
+    ]
+  },
+  {
+    "title": "Mac App",
+    "list": [
+      { "name": "Cmacked", "url": "https://apps.cmacked.com" },
+      { "name": "Haxmac", "url": "https://haxmac.cc" }
+    ]
+  },
+  {
+    "title": "ssr",
+    "list": [
+      { "name": "lncn", "url": "https://lncn.org" },
+      { "name": "新界", "url": "https://neworld.tv" },
+      { "name": "魔戒", "url": "https://www.mojie.me" }
+    ]
+  },
+  {
+    "title": "Other",
+    "list": [
+      { "name": "NASA 拍摄资料", "url": "https://esahubble.org" },
+      { "name": "锻炼图解", "url": "https://darebee.com/workouts.html" },
+      {
+        "name": "IDM 破解",
+        "url": "https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html"
+      }
+    ]
+  }
+]
